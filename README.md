@@ -1,6 +1,6 @@
 # expo-text-input-sandbox
 
-Reproduction repo for a bug entering characters into a `TextInput` on older iOS hardware.
+Reproduction repo for a [bug entering characters](https://github.com/expo/expo/issues/30144) into a `TextInput` on older iOS hardware.
 
 ## Get started
 
